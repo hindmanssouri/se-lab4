@@ -1,0 +1,3 @@
+# TC7: Both stores fail
+GT4500,1,1,1,1
+TORPEDO,ALL
